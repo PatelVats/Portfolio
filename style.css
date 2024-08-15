@@ -430,3 +430,20 @@ footer {
 footer p {
   text-align: center;
 }
+
+.freerider{
+  background-color: #ffffff;
+  border: hidden;
+  /* max-width: 100px; */
+}
+
+.expand{
+  max-height: 600px;
+  min-width: 700px;
+}
+
+.expandimg{
+  width: 700px;
+  max-height: auto;
+}
+

@@ -100,4 +100,13 @@
   .text-container {
     text-align: justify;
   }
+  .expand {
+    max-height: 400px; /* Adjusted height for smaller screens */
+    min-width: 85%; /* Full width of the mobile screen */
+  }
+  
+  .expandimg {
+    width: 100%; /* Make the image take full width of the container */
+    max-height: auto; /* Allow height to adjust automatically */
+  }
 }
